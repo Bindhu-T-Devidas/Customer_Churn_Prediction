@@ -1,6 +1,6 @@
 ## Customer Churn Prediction
 
-This project is a web-based application designed to predict customer churn using a **machine learning model**. The application is built using **Streamlit** and leverages a pre-trained model to classify whether a customer is likely to churn or not.
+This project is designed to predict customer churn using a **machine learning model**. The application is built using **Streamlit** and leverages a pre-trained model to classify whether a customer is likely to churn or not.
 
 ### Project Structure
 ```
